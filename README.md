@@ -46,7 +46,7 @@ Brett and Rohani (2020).  PNAS. ["Transmission dynamics reveal the impracticalit
 Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lockdown on the far side of the COVID-19 epidemic curve](https://www.pnas.org/content/117/39/24575.short)
 
 ### Newer suggestions (general)
-
+- Thinking about understanding some  of the MCMC algorithms, how they work and when to use one over the other. I have in mind chapter 7, section 7.3 of Professor Bolker's Book: "Ecological models and data in R" 
 - Zhang, Lu, Bob Carpenter, Andrew Gelman, and Aki Vehtari. “Pathfinder: Parallel Quasi-Newton Variational Inference.” ArXiv:2108.03782 [Cs, Stat], August 8, 2021. http://arxiv.org/abs/2108.03782.
 - Tredennick, Hooder, Ellner, Adler. "A practical guide to selecting models for exploration, inference, and prediction in ecology" https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3336
 - https://www.nature.com/articles/s41586-021-03606-z
